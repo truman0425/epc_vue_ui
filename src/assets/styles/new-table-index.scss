@@ -1,0 +1,99 @@
+//修改表格样式开始
+
+.app-container{
+  padding: 0;
+  background: #f5f6fa;
+}
+.header-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 86px;
+  background: #FFFFFF;
+  box-shadow: 0px 1px 20px 0px #ECECEC;
+  border-radius: 12px;
+  padding: 0 20px;
+}
+/deep/ .commonTable{
+  padding: 20px;
+  margin-top: 20px;
+  background: #FFFFFF;
+  box-shadow: 0px 1px 20px 0px #ECECEC;
+  border-radius: 12px;
+}
+/deep/ .filter-main{
+  margin-top: 0;
+}
+/deep/ .right-btn button{
+  margin-top: 0;
+}
+.fc-btn{
+  margin-top: 0;
+}
+.img-div{
+  padding:0 20px;
+  margin-top: -80px;
+  .approval-status{
+    margin-bottom: 5px;
+  }
+}
+
+.right-btn {
+  height: 66px;
+  display: flex;
+  align-items: center;
+  margin-right: -20px;
+  justify-content: flex-end;
+  color: #ffffff;
+}
+.right-btn button {
+  height: 46px;
+  border-radius: 12px;
+  font-size: 18px;
+  margin-top: 10px;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.fc-btn {
+  text-align: center;
+  font-size: 18px;
+  background-color: #1989fa;
+  border-radius: 12px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 15px;
+  >span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  //margin-right: 10px;
+}
+
+
+.fc-btn2 {
+  text-align: center;
+  font-size: 18px;
+  background-color: #EEEEEE;
+  border-radius: 12px;
+  //color: rgba(80,80,105,0.5);
+  font-weight: bold;
+  margin-left: 15px;
+  margin-top: 10px;
+  cursor: not-allowed;
+  >span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    >span{
+      color: rgba(80,80,105,0.5) !important;
+    }
+  }
+  //margin-right: 10px;
+}
+
+//修改表格样式结束

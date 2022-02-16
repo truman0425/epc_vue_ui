@@ -1,0 +1,123 @@
+/**
+* I think element-ui's default theme color is too light for long-term use.
+* So I modified the default color and you can modify it to your liking.
+**/
+
+/* theme color */
+$--color-primary: #1989FA;
+$--color-success: #13ce66;
+$--color-warning: #FFBA00;
+$--color-danger: #ff4949;
+// $--color-info: #1E1E1E;
+
+$--button-font-weight: 400;
+
+// $--color-text-regular: #1f2d3d;
+
+$--border-color-base: #eee;
+$--border-color-light: #eee;
+$--border-color-lighter: #e6ebf5;
+
+$--table-border:1px solid#dfe6ec;
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
+
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  theme: $--color-primary;
+}
+//tree 样式覆盖
+@include b(tree-node) {
+  @include e(content) {
+    display: flex;
+    align-items: center;
+    height: 36px;
+    font-size: 16px;
+    cursor: pointer;
+
+    & > .el-tree-node__expand-icon {
+      padding: 6px;
+    }
+    & > label.el-checkbox {
+      margin-right: 8px;
+    }
+    &:hover {
+      background-color: $--tree-node-hover-background-color;
+    }
+
+    .el-tree.is-dragging & {
+      cursor: move;
+
+      & * {
+        pointer-events: none;
+      }
+    }
+
+    .el-tree.is-dragging.is-drop-not-allow & {
+      cursor: not-allowed;
+    }
+  }
+}
+
+// tabs样式覆盖
+@include b(tabs) {
+  @include m(border-card) {
+    background: $--color-white;
+    border: none;
+    box-shadow: none;
+
+    > .el-tabs__content {
+      padding: 15px;
+    }
+    > .el-tabs__header {
+      background-color: $--color-white;
+      border-bottom: 1px solid $--border-color-light;
+      margin: 0;
+    }
+    > .el-tabs__header .el-tabs__nav-wrap::after {
+      content: none;
+    }
+    > .el-tabs__header .el-tabs__item {
+      transition: all .3s cubic-bezier(.645,.045,.355,1);
+      border: 1px solid transparent;
+      margin-top: -1px;
+      color: $--color-text-secondary;
+      font-size: 16px;
+      height: 48px;
+      line-height: 48px;
+      min-width: 110px;
+      text-align: center;
+
+
+      &:first-child {
+        margin-left: -1px;
+      }
+
+      & + .el-tabs__item {
+        margin-left: -1px;
+      }
+
+      &.is-active {
+        color: $--color-primary;
+        background-color: transparent;
+        border-right-color: $--border-color-base;
+        border-left-color: $--border-color-base;
+        box-shadow: inset 0 2px 0 0 #1989FA;
+      }
+      &:not(.is-disabled):hover {
+        color: $--color-primary;
+      }
+      &.is-disabled {
+        color: $--disabled-color-base;
+      }
+    }
+
+    > .el-tabs__header .is-scrollable .el-tabs__item:first-child {
+      margin-left: 0;
+    }
+  }
+}

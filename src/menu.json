@@ -1,0 +1,11 @@
+[
+  {
+    "name":"ProjectPlanning",
+    "path":"projectPlanning",
+    "component":{},
+    "meta": {
+      "icon": "system",
+      "title": "项目登记"
+    }
+  }
+]

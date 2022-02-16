@@ -1,0 +1,1607 @@
+[
+  {
+    "children":[
+
+    ],
+    "modName":"首页",
+    "modSid":"homepage",
+    "parentSid":"0"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"帮助文档",
+        "modSid":"01658D15-2E7E-4E54-8F6C-62FE82BEE69D",
+        "parentSid":"D003E122-542E-4027-9B69-1C03EE113547"
+      }
+    ],
+    "modName":"帮助文档",
+    "modSid":"D003E122-542E-4027-9B69-1C03EE113547",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"个人设置",
+        "modSid":"D177D592-EDA2-4BAC-8F1F-EBBB7E0F28A0",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"待审批",
+        "modSid":"735D6830-8F68-4F1D-83D2-2193CAE62471",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"待查阅",
+        "modSid":"56DA4E6B-0DDF-4A8F-B795-B2EBEBA597B0",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"已审批",
+        "modSid":"DA988F35-E088-44FC-8BF5-BDA661495248",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"已查阅",
+        "modSid":"E46BBD11-7322-4C9D-8CD1-04192A8F24D4",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"已办结",
+        "modSid":"47E290CB-33FD-43F0-BE53-C27F2F32A9C6",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"我的在办",
+        "modSid":"AB7F2559-0BF6-4AAB-97F8-35C5B08766AD",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"我的已办结",
+        "modSid":"C419D696-E5A0-4F55-9A5F-3FFE9536D1B0",
+        "parentSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583"
+      }
+    ],
+    "modName":"个人信息",
+    "modSid":"BCF2E055-280F-4564-8DA4-D0B1C118F583",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"项目库--工程类",
+        "modSid":"68C6E36B-BAB8-4F8F-8F62-26B3E1712420",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目机会",
+        "modSid":"6CC2E74B-2865-4022-98B7-C821B8D060C2",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目筛选",
+        "modSid":"2C1B65C4-4E34-434F-B874-AB255A87418D",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"经营预算表",
+        "modSid":"72EFEFD5-89F9-4491-9C3B-E838EF3B9472",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"经营预算调整",
+        "modSid":"11CCDB91-95F5-4FD9-B791-090467F27CAD",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"标前评审表",
+        "modSid":"DBD8EA9E-84C7-4ADD-B886-A723386A0E50",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"经营预算--总院",
+        "modSid":"ABDD0431-6793-4B04-B384-74C9F64BBFFA",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目合并",
+        "modSid":"1623B9D2-466D-48A0-821D-7100887ED56B",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"经营预算调整--总院",
+        "modSid":"99A3C4D0-91A8-477B-97C0-24A2750ACFAA",
+        "parentSid":"F931A98F-4634-4770-82CB-879571FF9D02"
+      }
+    ],
+    "modName":"前期经营",
+    "modSid":"F931A98F-4634-4770-82CB-879571FF9D02",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"项目立项",
+        "modSid":"C3022193-47EE-4CC6-A6CB-CE3C66E6C147",
+        "parentSid":"6F6378A8-3F7E-47CE-B718-ED80C95F3AAB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目库",
+        "modSid":"0A3D5DC7-DE0A-41C0-A448-1A203902A288",
+        "parentSid":"6F6378A8-3F7E-47CE-B718-ED80C95F3AAB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目负责人查询库",
+        "modSid":"744953C6-8908-412D-96DE-4777B7FE623B",
+        "parentSid":"6F6378A8-3F7E-47CE-B718-ED80C95F3AAB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目负责人变更申请",
+        "modSid":"C4225428-C9E6-4DCC-B250-509D653D33A9",
+        "parentSid":"6F6378A8-3F7E-47CE-B718-ED80C95F3AAB"
+      }
+    ],
+    "modName":"项目立项",
+    "modSid":"6F6378A8-3F7E-47CE-B718-ED80C95F3AAB",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"预算状态变更申请",
+        "modSid":"4FC994FE-0C75-4DA2-A8BA-AF37358E1A61",
+        "parentSid":"6B73025D-71BD-4B67-96DB-69E9D56C6173"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目状态变更申请",
+        "modSid":"0A84D709-6A98-4656-B08B-2FDFC6A4EC32",
+        "parentSid":"6B73025D-71BD-4B67-96DB-69E9D56C6173"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目合并",
+        "modSid":"4D5E8051-7194-4490-B990-98C44667EEEC",
+        "parentSid":"6B73025D-71BD-4B67-96DB-69E9D56C6173"
+      }
+    ],
+    "modName":"项目状态管理",
+    "modSid":"6B73025D-71BD-4B67-96DB-69E9D56C6173",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"设计咨询类项目合同评审表",
+            "modSid":"433F1CB0-68DC-4595-8066-342D58586720",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同信息确认",
+            "modSid":"D80CC283-2661-445E-9C1C-C9940139FE47",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同补充协议",
+            "modSid":"56A52E32-5103-4FF8-863B-6B4E3E081048",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同变更",
+            "modSid":"D84A148A-993B-4DA5-8D7C-4125323BC856",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同索赔",
+            "modSid":"B07A3777-8250-4CE7-9355-C9E375738EE5",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"扣款",
+            "modSid":"C30DDB68-CC57-4079-9749-A2F458712F56",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同计划收款",
+            "modSid":"CC894EEB-C59C-42C6-A405-DC388A4F39F2",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"收款流水",
+            "modSid":"CF55F381-BDAA-4EC4-A4B7-53CEEB2BD577",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"实际收款",
+            "modSid":"F83846CF-1494-437E-8E95-600D735E01E5",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同清单报表",
+            "modSid":"29346D01-12DB-4B29-97E7-62FA58A6B9D0",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同中止",
+            "modSid":"53F21069-AEBD-460C-A0F7-E2C4DF3CF19E",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"主合同关闭",
+            "modSid":"455D9A35-A1BC-429D-AA5F-9ACD59D8B92D",
+            "parentSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01"
+          }
+        ],
+        "modName":"主合同",
+        "modSid":"EC87DDF8-B45F-40EE-9606-CC8129F92D01",
+        "parentSid":"85C37B88-7A4A-429D-A840-D5E2D6A804C2"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同评审",
+            "modSid":"121B0EC2-325A-4A67-A40E-31B39187B3B9",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同信息确认",
+            "modSid":"2F6ED556-17AF-4C1E-9C01-A37BC525361B",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同补充协议",
+            "modSid":"AF022087-6557-400F-AA04-9AAFB7665E1D",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同变更",
+            "modSid":"FF7A3D05-EF1D-410A-94DF-01379CC6696F",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同索赔",
+            "modSid":"D6E203BE-9577-45A5-A960-73FBFB6EA686",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"罚金",
+            "modSid":"BA5DE97C-96C1-40BE-A935-F38369AD0BDB",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同计划付款",
+            "modSid":"CCBBC554-373E-4FB0-B909-691D4F701C1B",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"付款申请",
+            "modSid":"029621B0-B6C4-4144-96CC-44E3E27C44AF",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"实际付款",
+            "modSid":"92B3C23A-2CA5-48F2-9F3F-872F4D082F5B",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同清单报表",
+            "modSid":"7A4942DE-9C82-4296-A09A-9602D9D65C39",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同中止",
+            "modSid":"23C2DDE3-F97D-489D-A13D-938DA108B2DB",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包合同关闭",
+            "modSid":"3290215F-A4F0-4403-8DE7-AF7F4CEA3C67",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"分包付款单附件归档",
+            "modSid":"59ADF840-99EE-48BC-A203-4C8B5F61B58E",
+            "parentSid":"A2C50360-80D0-49D8-8780-8530D0CC9814"
+          }
+        ],
+        "modName":"分包合同",
+        "modSid":"A2C50360-80D0-49D8-8780-8530D0CC9814",
+        "parentSid":"85C37B88-7A4A-429D-A840-D5E2D6A804C2"
+      }
+    ],
+    "modName":"合同管理",
+    "modSid":"85C37B88-7A4A-429D-A840-D5E2D6A804C2",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"付款申请--公司",
+        "modSid":"7127C9D4-600A-4F42-ADAC-D032CC660031",
+        "parentSid":"8DABAA70-A9C8-4A18-BC6B-8332F5F7482F"
+      }
+    ],
+    "modName":"合同管理--公司",
+    "modSid":"8DABAA70-A9C8-4A18-BC6B-8332F5F7482F",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"项目预算",
+        "modSid":"C0E7C2DE-BDCB-48F1-8323-21E777AF260E",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目预算调整",
+        "modSid":"9E200AF0-BDEC-454C-A17B-5866CF11E19F",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目负责人变更申请",
+        "modSid":"1D0CEC78-1F3E-4760-BE37-E8DE1C34802E",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目状态变更申请",
+        "modSid":"8B11BDB3-33DF-4131-8E5B-8EBCAA320DD5",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目清单",
+        "modSid":"A6FEC6F0-F42E-482A-964D-B946469741D9",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目人员调整申请",
+        "modSid":"C1B6C55A-0976-4324-BD99-FACAA3E2CA62",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"非生产类项目申请书",
+        "modSid":"48CF77AD-C252-4DE9-AE61-D3EE25E97DEB",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"非生产类项目预算调整",
+        "modSid":"087742C3-6294-4997-BC7F-E46E5B5DC613",
+        "parentSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A"
+      }
+    ],
+    "modName":"项目预算",
+    "modSid":"684637B4-AAB2-4FCE-8F24-0A9DF8C7424A",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"工时填报",
+        "modSid":"64979B5B-989D-4311-BDDE-532CD556FED9",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"工时确认",
+        "modSid":"F6958C86-52FB-42FF-891A-210E984F9D2B",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"工时撤销",
+        "modSid":"D7C91F15-6878-441F-92F8-01D619F61155",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"工时分类",
+            "modSid":"7C230932-2A97-4691-AEA0-42F57D4B9A9A",
+            "parentSid":"F11A3F50-2770-47CC-A969-DC934CEA597F"
+          }
+        ],
+        "modName":"基础设置",
+        "modSid":"F11A3F50-2770-47CC-A969-DC934CEA597F",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"员工工时填报明细表（时间维度）",
+            "modSid":"7327442F-E8F5-4542-9B50-3320F1395E7F",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目填报工时统计（时间维度）",
+            "modSid":"F80D62F0-5370-49D3-B244-F93B6CFFB6BA",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"工时填报明细表",
+            "modSid":"79A2EB0C-9D00-450B-A30B-1B42CB28C481",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"填报状态",
+            "modSid":"5DCD3D7F-9D85-43D7-B92D-1B09F5DEB191",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"工时填报统计",
+            "modSid":"B982F9B0-1720-4C6D-979D-052CA8E93BBA",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"部门人员使用率",
+            "modSid":"AA861A0F-3C13-44F4-9444-43EA1E6D543B",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"岗级使用率",
+            "modSid":"763C1BBA-8CDA-4D60-A28B-0E2CF546654A",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"个人使用率",
+            "modSid":"5ABA1A92-A6C3-469C-B421-ADAC1C115EAD",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"个人使用率明细表",
+            "modSid":"EB8DC43F-CE76-4A36-A87D-142B15E54086",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"人员单价报告",
+            "modSid":"AC78A21A-5C5C-4415-89B4-844F793EE719",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"部门人员使用率图表",
+            "modSid":"ABCA75F6-0770-48A9-AF0A-6B8354BF389F",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"请假明细报表",
+            "modSid":"45536B49-E5DD-4B1F-882C-FACCBBC74072",
+            "parentSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561"
+          }
+        ],
+        "modName":"工时统计报表",
+        "modSid":"668E74BD-AE62-4CB6-BF3C-95C01347F561",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"请、休假申请表",
+        "modSid":"D77F5E8B-91DE-4C37-BEFC-92C6527D2484",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"工时填报汇总表",
+        "modSid":"D6367642-E279-4E13-8F08-A26650C46759",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目人工成本输出报表",
+        "modSid":"BA8AE8CA-D126-49DE-942B-84B68A29FA5F",
+        "parentSid":"08B2C640-853C-40B4-92A5-723941A888EB"
+      }
+    ],
+    "modName":"工时管理",
+    "modSid":"08B2C640-853C-40B4-92A5-723941A888EB",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"进度反馈",
+        "modSid":"8A84D515-DBE5-4007-943B-BD2D4B11ABF2",
+        "parentSid":"B38F089D-82DB-44A3-9831-7F8A9DC53029"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"进度确认",
+        "modSid":"890AE503-E490-4F79-AC56-5F77A4C81939",
+        "parentSid":"B38F089D-82DB-44A3-9831-7F8A9DC53029"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目进度提报",
+        "modSid":"A735C4C4-4E88-4FEA-BD00-EEC2CAE1786C",
+        "parentSid":"B38F089D-82DB-44A3-9831-7F8A9DC53029"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"设计、咨询项目收入确认",
+        "modSid":"4A01D52F-0557-4537-A2B3-091749E8F490",
+        "parentSid":"B38F089D-82DB-44A3-9831-7F8A9DC53029"
+      }
+    ],
+    "modName":"设计进度管理",
+    "modSid":"B38F089D-82DB-44A3-9831-7F8A9DC53029",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"开具发票申请单",
+        "modSid":"888CAC3F-A0BF-4895-B1E3-2395DA7EB385",
+        "parentSid":"CE9A31C6-6489-4A0E-AB24-3987AB5DA881"
+      }
+    ],
+    "modName":"发票管理",
+    "modSid":"CE9A31C6-6489-4A0E-AB24-3987AB5DA881",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"项目产值结算",
+        "modSid":"367EAFE9-E1E7-4546-84CC-1AA439F44173",
+        "parentSid":"B8971C39-B5AD-48F0-8F42-BB54F9F4ECF2"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目人工成本结算",
+        "modSid":"9FA7FCD8-3900-4857-BB85-257AA2F79BF5",
+        "parentSid":"B8971C39-B5AD-48F0-8F42-BB54F9F4ECF2"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目超额利润分配表",
+        "modSid":"77A4672F-A061-47E9-B8EA-2AD713C780CB",
+        "parentSid":"B8971C39-B5AD-48F0-8F42-BB54F9F4ECF2"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"人工实际成本",
+        "modSid":"7059D225-4589-425C-971B-0BE89E7D55E5",
+        "parentSid":"B8971C39-B5AD-48F0-8F42-BB54F9F4ECF2"
+      }
+    ],
+    "modName":"项目结算管理",
+    "modSid":"B8971C39-B5AD-48F0-8F42-BB54F9F4ECF2",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-项目",
+            "modSid":"31FD6376-AC02-4902-AEDC-50BD53C1D2FC",
+            "parentSid":"E188B49E-175E-4B89-BD3D-C2B249A70966"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-专业",
+            "modSid":"650E09C9-24EC-4366-B0B3-397CD003C5A9",
+            "parentSid":"E188B49E-175E-4B89-BD3D-C2B249A70966"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-部门",
+            "modSid":"E2BD1BBF-FDD4-43AE-8462-E43A51667D34",
+            "parentSid":"E188B49E-175E-4B89-BD3D-C2B249A70966"
+          }
+        ],
+        "modName":"项目产值报表",
+        "modSid":"E188B49E-175E-4B89-BD3D-C2B249A70966",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目收支情况-项目",
+            "modSid":"290942BC-7049-480A-BD51-AC40C22E7E43",
+            "parentSid":"31534294-A015-4368-ACBB-4AD8DA409B38"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目收支情况-业务类型",
+            "modSid":"8CD8C96F-C523-426F-9BE7-3485D8237045",
+            "parentSid":"31534294-A015-4368-ACBB-4AD8DA409B38"
+          }
+        ],
+        "modName":"项目收支情况",
+        "modSid":"31534294-A015-4368-ACBB-4AD8DA409B38",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"月度收支计划表-填报",
+            "modSid":"A979A62D-8CD6-4B94-9EDB-EB3B99A4C11A",
+            "parentSid":"302F69C8-8513-49B7-8776-887FB699CBEE"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"月度收支计划表-项目",
+            "modSid":"AFCECBC0-D800-46A0-BCFA-97B74727F22E",
+            "parentSid":"302F69C8-8513-49B7-8776-887FB699CBEE"
+          }
+        ],
+        "modName":"月度收支计划表",
+        "modSid":"302F69C8-8513-49B7-8776-887FB699CBEE",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目现金流",
+            "modSid":"0080F47B-F39A-42FB-AA71-4E142D473E5B",
+            "parentSid":"F09D0480-7CD1-4650-98D7-FD25FA0D7EB8"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"部门现金流",
+            "modSid":"BCD03CD3-4BEA-4969-A09D-C68FF749F5C8",
+            "parentSid":"F09D0480-7CD1-4650-98D7-FD25FA0D7EB8"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目人工成本",
+            "modSid":"B832F034-A65E-4B0F-97F6-E25E0BDDEEC7",
+            "parentSid":"F09D0480-7CD1-4650-98D7-FD25FA0D7EB8"
+          }
+        ],
+        "modName":"项目现金流汇总表",
+        "modSid":"F09D0480-7CD1-4650-98D7-FD25FA0D7EB8",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目收入情况汇总表",
+            "modSid":"B0B31B7C-2484-455A-90D0-124CB6DCDBD8",
+            "parentSid":"54B940CD-BCAA-4272-AA15-AE3AA132E4CB"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"开票回款情况表",
+            "modSid":"04D15D10-3067-4599-B7D9-22734D86AC73",
+            "parentSid":"54B940CD-BCAA-4272-AA15-AE3AA132E4CB"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"应收账款情况表",
+            "modSid":"B6EE7E38-808A-471B-BE14-8D98A60D3012",
+            "parentSid":"54B940CD-BCAA-4272-AA15-AE3AA132E4CB"
+          }
+        ],
+        "modName":"项目成本管理需求表",
+        "modSid":"54B940CD-BCAA-4272-AA15-AE3AA132E4CB",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"人员人工成本统计表",
+            "modSid":"B62FB8D6-5C83-4C1C-8815-292433AE5C9C",
+            "parentSid":"E0282D2F-01FF-45F4-AD8C-62FC46068111"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"专业人工成本情况统计表",
+            "modSid":"530C051A-337B-48C1-948F-0B9413DBCEA3",
+            "parentSid":"E0282D2F-01FF-45F4-AD8C-62FC46068111"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目人工成本情况统计表",
+            "modSid":"BAF058CE-E6EA-4EC1-8BC6-C3D0145DCAC7",
+            "parentSid":"E0282D2F-01FF-45F4-AD8C-62FC46068111"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目人工成本填报状态统计表",
+            "modSid":"1E70782D-EED1-4272-888C-52FD9901D138",
+            "parentSid":"E0282D2F-01FF-45F4-AD8C-62FC46068111"
+          }
+        ],
+        "modName":"人工成本统计表",
+        "modSid":"E0282D2F-01FF-45F4-AD8C-62FC46068111",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目成本情况统计表",
+        "modSid":"11686AC7-2B2A-4BE8-A0F6-6DE0CAF6174E",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目综合单价汇总表",
+        "modSid":"FC54C591-35B6-4BD1-8E2E-26DCA6FD5F25",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目情况明细表",
+        "modSid":"087A155B-F364-4381-9E76-E38BBBD136EE",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目人工成本结算明细表",
+        "modSid":"F9E7C323-530D-4418-B01D-C20E86D87F32",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目预算执行情况统计表",
+        "modSid":"FBF32B19-E0BA-43BC-A520-862DC83929DE",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目预算执行情况明细表",
+        "modSid":"73750C74-2869-460F-9DDF-E14DDCF6D87D",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目执行情况统计表(公摊)",
+        "modSid":"18348ADF-7990-4B09-9FBA-9765D8F31110",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目执行情况统计表(房租)",
+        "modSid":"68F93F17-3DE1-475B-9DD8-CC99DDD9ED61",
+        "parentSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66"
+      }
+    ],
+    "modName":"报表管理-总院",
+    "modSid":"F3094FDD-4A26-4506-BCBB-6A289C3C0F66",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-项目",
+            "modSid":"14FD5E09-0D98-4D57-9ABB-1BED9F09F031",
+            "parentSid":"C934E7E5-8996-4239-9BC1-AE9FFD3126C1"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-专业",
+            "modSid":"8C079053-5CC0-4BB1-B594-434D3ADF384D",
+            "parentSid":"C934E7E5-8996-4239-9BC1-AE9FFD3126C1"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-部门",
+            "modSid":"9281D5AE-457D-4FC7-AA88-5360D3B0F9F2",
+            "parentSid":"C934E7E5-8996-4239-9BC1-AE9FFD3126C1"
+          }
+        ],
+        "modName":"项目产值报表",
+        "modSid":"C934E7E5-8996-4239-9BC1-AE9FFD3126C1",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目收支情况-项目",
+            "modSid":"D3E57282-1648-4F46-B18C-997F0A63B621",
+            "parentSid":"BEA979AF-AA18-4DD9-BB61-05F1B8E264B5"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目收支情况-业务类型",
+            "modSid":"A08584B8-D692-46CA-8DF7-11B00CEDFC25",
+            "parentSid":"BEA979AF-AA18-4DD9-BB61-05F1B8E264B5"
+          }
+        ],
+        "modName":"项目收支情况",
+        "modSid":"BEA979AF-AA18-4DD9-BB61-05F1B8E264B5",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"月度收支计划表-填报",
+            "modSid":"E617E7B3-6905-4748-862C-8C746EE64513",
+            "parentSid":"81D743CB-01D8-495B-B1CB-1B1603690E7C"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"月度收支计划表-项目",
+            "modSid":"284650D0-1039-425F-B42B-4BF3C61DD762",
+            "parentSid":"81D743CB-01D8-495B-B1CB-1B1603690E7C"
+          }
+        ],
+        "modName":"月度收支计划表",
+        "modSid":"81D743CB-01D8-495B-B1CB-1B1603690E7C",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目人工成本",
+            "modSid":"361B7D38-8785-4E27-B544-CA919A5454DD",
+            "parentSid":"17A2DDA3-712B-4B09-8EF6-C86BADF45545"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目现金流",
+            "modSid":"66A1447A-5794-47B8-8B7D-292308593D85",
+            "parentSid":"17A2DDA3-712B-4B09-8EF6-C86BADF45545"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"部门现金流",
+            "modSid":"3388097D-E885-44AB-8CAF-6F8708F02746",
+            "parentSid":"17A2DDA3-712B-4B09-8EF6-C86BADF45545"
+          }
+        ],
+        "modName":"项目现金流汇总表",
+        "modSid":"17A2DDA3-712B-4B09-8EF6-C86BADF45545",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目收入情况汇总表",
+            "modSid":"710176D4-6944-49EF-B5FB-59F0779416B3",
+            "parentSid":"109CE399-D8D7-45C5-8D0C-5CC89D16C5B9"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"开票回款情况表",
+            "modSid":"4E854DAC-5F4C-4354-89FA-39BBE8BF5C35",
+            "parentSid":"109CE399-D8D7-45C5-8D0C-5CC89D16C5B9"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"应收账款情况表",
+            "modSid":"F57BD98C-327F-4441-A6E5-8BAAB41A7ADF",
+            "parentSid":"109CE399-D8D7-45C5-8D0C-5CC89D16C5B9"
+          }
+        ],
+        "modName":"项目成本管理需求表",
+        "modSid":"109CE399-D8D7-45C5-8D0C-5CC89D16C5B9",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目人工成本情况统计表",
+            "modSid":"670235A0-7D0D-4246-9579-2283D646D856",
+            "parentSid":"70344B0E-774C-4A02-9DE2-87BD889EEC5D"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目人工成本填报状态统计表",
+            "modSid":"72959E0F-40FE-472A-859A-F1834670A032",
+            "parentSid":"70344B0E-774C-4A02-9DE2-87BD889EEC5D"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"专业人工成本情况统计表",
+            "modSid":"27FC009B-644F-4A60-B868-EA918C993F8C",
+            "parentSid":"70344B0E-774C-4A02-9DE2-87BD889EEC5D"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"人员人工成本统计表",
+            "modSid":"CE667575-DAD3-40D9-89C8-BDA05969145A",
+            "parentSid":"70344B0E-774C-4A02-9DE2-87BD889EEC5D"
+          }
+        ],
+        "modName":"人工成本统计表",
+        "modSid":"70344B0E-774C-4A02-9DE2-87BD889EEC5D",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目成本情况统计表",
+        "modSid":"76A98265-3884-444B-90AB-F275A4ADF30C",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目综合单价汇总表",
+        "modSid":"C485CB57-103F-46A5-8412-B92350204D90",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目执行情况统计表(不含部门分摊)",
+        "modSid":"D8031D44-9353-4178-BD82-6DC27FCE9AF9",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目情况明细表",
+        "modSid":"1FD8259E-DFA8-4C88-A559-0F7CBC60A091",
+        "parentSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273"
+      }
+    ],
+    "modName":"报表管理-部门",
+    "modSid":"4FAF146D-E354-40F1-B7BD-2B69CC179273",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"节假日设置",
+        "modSid":"474E73E9-8C10-48DE-99CC-6311EEE3F8BE",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"合作单位",
+        "modSid":"A3692AAF-5DBF-4302-A242-0424A3DA4F05",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"银行账号",
+        "modSid":"35A82125-FE9A-45E2-B388-97EEAD326BF6",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"人力配置模板",
+        "modSid":"E73C9307-B664-49D7-9A40-4B2A578F22AF",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"会计科目表",
+        "modSid":"1EB7F365-CA7C-47A7-AEFF-D95A8198096D",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"帮助文档目录定义",
+        "modSid":"41F4160E-85F0-4BAB-95B8-CC924BCBE03E",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"工时统计部门人员维护",
+        "modSid":"1DE8626A-4A22-4404-8E84-386107206961",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"请、修假申请模板",
+        "modSid":"E6EB8AEE-141E-4325-A71E-AE4022EE74D0",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目预算科目",
+        "modSid":"BF7F5728-F67E-46DA-A3FD-BD47C63D2F59",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"邮件通知设置",
+        "modSid":"A73CAB40-B33A-42E5-876D-3761F2F688D7",
+        "parentSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E"
+      }
+    ],
+    "modName":"基础信息",
+    "modSid":"D542121D-3DFC-42A6-A8BE-9022DF0E095E",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"项目结算补录",
+        "modSid":"D7A1EA0C-F69C-4E93-8CC5-2C6E66FB0107",
+        "parentSid":"14693945-5103-4760-8410-4BAF4F5DD2E8"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目人工成本结算补录",
+        "modSid":"DA4FC029-95B8-49DE-A942-8C509ABC0FE0",
+        "parentSid":"14693945-5103-4760-8410-4BAF4F5DD2E8"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"工时补录",
+        "modSid":"E3046AD8-2AEB-47BF-BE20-5961F9B07863",
+        "parentSid":"14693945-5103-4760-8410-4BAF4F5DD2E8"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"非人工费用补录",
+        "modSid":"1AB3D16B-E2E1-4048-A287-268E096BE5F8",
+        "parentSid":"14693945-5103-4760-8410-4BAF4F5DD2E8"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目实际人工成本输入表",
+        "modSid":"79CB320F-881A-4840-96A3-CE39FCF35442",
+        "parentSid":"14693945-5103-4760-8410-4BAF4F5DD2E8"
+      }
+    ],
+    "modName":"期初数据补录",
+    "modSid":"14693945-5103-4760-8410-4BAF4F5DD2E8",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-项目",
+            "modSid":"313308DE-2AF5-4C3B-8AFF-1E86087AF558",
+            "parentSid":"830EB9E4-AEBA-4752-9984-E6B691C22B86"
+          },
+          {
+            "children":[
+
+            ],
+            "modName":"项目产值报表-专业",
+            "modSid":"AEC18371-3F4B-4519-BA25-6EE98148F027",
+            "parentSid":"830EB9E4-AEBA-4752-9984-E6B691C22B86"
+          }
+        ],
+        "modName":"项目产值报表",
+        "modSid":"830EB9E4-AEBA-4752-9984-E6B691C22B86",
+        "parentSid":"BE6405B4-8381-456D-953D-6E7618A0E34F"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目人工成本情况统计表",
+        "modSid":"96995737-BA05-434E-A807-F8040A159B64",
+        "parentSid":"BE6405B4-8381-456D-953D-6E7618A0E34F"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目成本情况统计表",
+        "modSid":"01C3E2E4-B557-40F3-B3B8-65800C17CDEE",
+        "parentSid":"BE6405B4-8381-456D-953D-6E7618A0E34F"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目收支情况",
+        "modSid":"A4AF5846-986A-470F-9EB7-FDA77CFD44BE",
+        "parentSid":"BE6405B4-8381-456D-953D-6E7618A0E34F"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目收支情况-业务类型",
+        "modSid":"93F9B90F-18BD-416C-9A0A-FC117DC9BE38",
+        "parentSid":"BE6405B4-8381-456D-953D-6E7618A0E34F"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"项目执行情况统计表(不含部门分摊)",
+        "modSid":"AAFF84AB-EB65-4DEA-AB58-8E75252EB31C",
+        "parentSid":"BE6405B4-8381-456D-953D-6E7618A0E34F"
+      }
+    ],
+    "modName":"报表管理-项目经理",
+    "modSid":"BE6405B4-8381-456D-953D-6E7618A0E34F",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  },
+  {
+    "children":[
+      {
+        "children":[
+
+        ],
+        "modName":"数据字典",
+        "modSid":"AB75D245-72A0-428A-A552-58488C45A7F1",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"系统参数",
+        "modSid":"C4FAC415-E09C-4691-91FB-1DC20174E83A",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"组织机构定义",
+        "modSid":"0677CD36-778C-4E42-ACAB-198BC1E2A327",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"部门定义",
+        "modSid":"AF7ADD3E-527C-43D3-99FD-10A598BAF33D",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"人员定义",
+        "modSid":"67B01BEA-45ED-43D5-80D1-74177326DD9B",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"部门人员",
+        "modSid":"929D3016-1B79-4D18-999B-F0FAB25AE991",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"系统用户",
+        "modSid":"30D6300F-085C-49DE-8CDA-2CFFA839D077",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"分配权限(集中授权)",
+        "modSid":"2EE70AC8-691F-47A2-A12E-8605E9B6CF78",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"流程定义",
+        "modSid":"4ABE4C27-502E-4584-9384-07692E216BE1",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"系统日志",
+        "modSid":"AA51E576-EEF6-4D17-8004-38A6A0CEBB5A",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"树颜色定义",
+        "modSid":"97EDA00E-E921-456E-BD79-B54BDD1B471F",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"流程清理",
+        "modSid":"DCD872C3-67C9-47C2-81DD-C47AFC501B85",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"人员价格维护",
+        "modSid":"B3CF7C79-76DB-45B7-89B6-A8BE61AC72FE",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      },
+      {
+        "children":[
+
+        ],
+        "modName":"付款同步日志查询",
+        "modSid":"D04ADE5B-84E5-4EB9-8F7A-349C4CB13287",
+        "parentSid":"E421BB6D-2FBE-476D-B888-CDA94787B482"
+      }
+    ],
+    "modName":"系统管理",
+    "modSid":"E421BB6D-2FBE-476D-B888-CDA94787B482",
+    "parentSid":"E34A9CA4-9E34-43B8-B47A-8824158BE369"
+  }
+]

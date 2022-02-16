@@ -1,0 +1,73 @@
+@import './variables.scss';
+
+.crumb-first{
+  color: #505A69;
+  font-size: 16px;
+  opacity: 0.5;
+}
+.crumb-two{
+  color: #1989FA;
+  font-size: 18px
+}
+
+
+.back-btn{
+  width: 90px;
+  height: 42px;
+  border: 2px solid #DDDDDD;
+  border-radius: 8px;
+  margin-right: 20px;
+  background: white;
+  color: #BFBFBF;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.back-img{
+  width: 20px;
+  height: 18px;
+  margin-right: 2px;
+}
+.back-text{
+  font-size: 18px;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #BFBFBF;
+}
+
+.header-main {
+  padding-left: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 67px;
+  .breadcrumb {
+    flex: 1;
+  }
+}
+
+.project-title{
+  font-size: 24px;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #1989FA;
+  line-height: 36px;
+}
+.title-edit{
+  overflow:hidden;
+  width: 50%;
+  margin-left: 20px;
+  color: #1989FA;
+  font-size: 18px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+.white-space{
+  white-space: nowrap;/*一行显示*/
+  overflow: hidden;/*超出部分隐藏*/
+  text-overflow: ellipsis;
+}
+
+

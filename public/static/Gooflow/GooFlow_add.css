@@ -1,0 +1,36 @@
+<!-- 审批流程图自定义字体图标 -->
+ .GooFlow .ico_myReturn:before{
+     content:"\f112";
+     font-family: "FontAwesome" !important;
+ }
+.GooFlow .ico_clear1:before{
+    content:"\f014";
+    font-family: "FontAwesome" !important;
+    color: red;
+}
+.GooFlow .b_ls:before{
+    content:"\f085";
+    font-family: "FontAwesome" !important;
+    color: red;
+}
+.GooFlow .myflag{
+    background-color: red;
+}
+.GooFlow div .rs_seeting{
+    position:absolute;right:0px;top:2px;width:20px;height:20px;filter:Alpha(Opacity=70);-moz-opacity:0.7;opacity:0.7;
+    font-family:"iconflow" !important;font-size:17px;color:#475669;line-height:1;overflow:hidden;cursor:pointer;
+}
+.GooFlow div .rs_seeting:before{
+    content:"\f085";
+    font-family: "FontAwesome" !important;
+    color: red;
+}
+.GooFlow div .rs_modify{
+    position:absolute;right:21px;top:2px;width:20px;height:20px;filter:Alpha(Opacity=70);-moz-opacity:0.7;opacity:0.7;
+    font-family:"iconflow" !important;font-size:17px;color:#475669;line-height:1;overflow:hidden;cursor:pointer;
+}
+.GooFlow div .rs_modify:before{
+    content:"\f085";
+    font-family: "FontAwesome" !important;
+    color: red;
+}
