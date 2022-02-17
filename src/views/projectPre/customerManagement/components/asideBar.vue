@@ -4,7 +4,7 @@
  * @Author: truman
  * @Date: 2022-02-15 22:03:15
  * @LastEditors: Truman
- * @LastEditTime: 2022-02-16 11:07:09
+ * @LastEditTime: 2022-02-17 10:13:58
 -->
 <template>
   <div class="aside-bar">
@@ -18,7 +18,7 @@ export default {
   data(){
       return {
           active:0,
-          region:["众鼎机械","湖南","湖北",'广东']
+          region:["众鼎机械","湖南","湖北",'广东','广东','广东','广东','广东','广东']
       }
   },
   methods:{
@@ -32,9 +32,9 @@ export default {
 
 <style lang="scss" scoped>
 .aside-bar {
-  border-right: 1px solid #e9eaf2;
-  border-left: 1px solid #757f92;
-  margin-top: 60px;
+  // border-right: 1px solid #e9eaf2;
+  // border-left: 1px solid #757f92;
+  // margin-top: 60px;
 
   span {
     font-size: 0.25rem;
@@ -43,10 +43,10 @@ export default {
     display: inline-block;
     margin-top: 10px;
     color: hsl(220, 5%, 89%);
-    letter-spacing: 30px;
-    margin-left: 10px;
+    // letter-spacing: 30px;
+    margin-left: -8px;
     padding: 20px 0;
-    padding-left: 10px;
+    padding-left: 13px;
     border-top-left-radius: 16px;
     border-bottom-left-radius: 15px;
     transition: background-color 0.5s;
